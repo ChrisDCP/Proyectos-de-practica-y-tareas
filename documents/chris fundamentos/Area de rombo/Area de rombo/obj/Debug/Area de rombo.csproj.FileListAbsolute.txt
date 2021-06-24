@@ -1,0 +1,6 @@
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\bin\Debug\Area de rombo.exe.config
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\bin\Debug\Area de rombo.exe
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\bin\Debug\Area de rombo.pdb
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\obj\Debug\Area de rombo.csprojResolveAssemblyReference.cache
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\obj\Debug\Area de rombo.exe
+C:\Users\apalastruka\Documents\chris fundamentos\Area de rombo\Area de rombo\obj\Debug\Area de rombo.pdb

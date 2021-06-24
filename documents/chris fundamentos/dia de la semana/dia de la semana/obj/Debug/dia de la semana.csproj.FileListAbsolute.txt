@@ -1,0 +1,5 @@
+C:\Users\apalastruka\Documents\chris fundamentos\dia de la semana\dia de la semana\bin\Debug\dia de la semana.exe.config
+C:\Users\apalastruka\Documents\chris fundamentos\dia de la semana\dia de la semana\bin\Debug\dia de la semana.exe
+C:\Users\apalastruka\Documents\chris fundamentos\dia de la semana\dia de la semana\bin\Debug\dia de la semana.pdb
+C:\Users\apalastruka\Documents\chris fundamentos\dia de la semana\dia de la semana\obj\Debug\dia de la semana.exe
+C:\Users\apalastruka\Documents\chris fundamentos\dia de la semana\dia de la semana\obj\Debug\dia de la semana.pdb
