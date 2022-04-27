@@ -17,7 +17,7 @@ public class PasarDatos {
     public static int tope= -1;
     public static int tope2=-1;
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
        int max = Integer.parseInt(JOptionPane.showInputDialog("Tamaño de la pila"));
        Arreglo1= new int [max];
        Arreglo2= new int[Arreglo1.length];
@@ -27,7 +27,7 @@ public class PasarDatos {
        MostarPilaDos();
        mostarPilaUno();
 
-    }
+   }*/
 
 
     public static void llenarArreglo(){
@@ -50,6 +50,7 @@ public class PasarDatos {
         for (int i = 0; i < Arreglo1.length; i++) {
             tope2++;
             Arreglo2[tope2] = Arreglo1[tope];
+            Arreglo1[tope]=0;
             tope--;
         }
             JOptionPane.showMessageDialog(null, "Los datos se han intercambiado");
