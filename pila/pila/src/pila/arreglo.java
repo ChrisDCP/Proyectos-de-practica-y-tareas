@@ -37,12 +37,9 @@ public class arreglo {
 
 
   public void llenarDato(){
-        if(this.tope<this.max-1){
-
-            int objeto= Integer.parseInt(JOptionPane.showInputDialog("ingresa el dato a poner en pila"));
-            
+        if(this.tope<this.max-1){         
             this.tope++;
-            this.pila[this.tope]= objeto;
+            this.pila[this.tope] = Integer.parseInt(JOptionPane.showInputDialog("ingresa el dato a poner en pila"));
             
 
             JOptionPane.showMessageDialog(null, "EL dato se inserto");
@@ -79,13 +76,17 @@ public class arreglo {
         }else {
        String sumativa = "";
             for (int i = -1; i <=this.tope; i++) {
-                sumativa += (i+1)*this.pila[i] +"\n"; 
+                sumativa = sumativa + (i+1)+this.pila[i] +"\n"; 
             }
         JOptionPane.showMessageDialog(null, "LOS DATOS DE LA PILA SON : " + sumativa,
                                 "MOSTRAR DATOS",JOptionPane.INFORMATION_MESSAGE);
 
         }
         
+    }
+
+    public void Salir(){
+        System.exit(0);
     }
 
 }

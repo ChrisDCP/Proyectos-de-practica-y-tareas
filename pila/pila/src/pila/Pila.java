@@ -49,6 +49,9 @@ public static arreglo pi;
              case 5: pi.mostrarpila();
              break;
 
+            case 6: pi.Salir();
+            break;
+
              default:JOptionPane.showMessageDialog(null,"Intente nuevamente","El numero no es una de las opciones"
                                         ,JOptionPane.ERROR_MESSAGE);
          }
