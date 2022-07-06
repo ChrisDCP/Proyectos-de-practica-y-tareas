@@ -1,0 +1,19 @@
+J:\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+J:\Programacion en BD\CodeForms\DataModel\bin\Debug\DataModel.dll
+J:\Programacion en BD\CodeForms\DataModel\bin\Debug\DataModel.pdb
+J:\Programacion en BD\CodeForms\DataModel\bin\Debug\EntityFramework.dll
+J:\Programacion en BD\CodeForms\DataModel\bin\Debug\EntityFramework.xml
+J:\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.dll
+J:\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\bin\Debug\DataModel.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\bin\Debug\DataModel.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\bin\Debug\EntityFramework.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\bin\Debug\EntityFramework.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DataModel\obj\Debug\DataModel.pdb
+K:\CodeForms\DataModel\bin\Debug\DataModel.dll
+K:\CodeForms\DataModel\bin\Debug\DataModel.pdb
+K:\CodeForms\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+K:\CodeForms\DataModel\obj\Debug\DataModel.dll
+K:\CodeForms\DataModel\obj\Debug\DataModel.pdb

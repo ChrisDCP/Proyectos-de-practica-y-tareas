@@ -1,0 +1,187 @@
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Catalogos.frmcategoria.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Busquedas.frmBusCategoria.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Catalogos.frmunidadesMedidas.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+C:\Users\4430s\Documents\Visual Studio 2012\Projects\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+D:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.LOGIN.frmLogin.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+D:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.LOGIN.frmLogin.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+G:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+G:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.LOGIN.frmLogin.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Public\Pictures\Sample Pictures\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Public\Pictures\Sample Pictures\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Public\Pictures\Sample Pictures\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.LOGIN.frmLogin.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+F:\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmcategoria.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmproductos.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.CATALOGOS.frmunidadesMedidas.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmbusqCompras.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frmcompras.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.COMPRAS.frminventario.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.ffactura.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.INFORMES.fInfInventario.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.LOGIN.frmLogin.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmclientes.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.OPERACIONES.frmproveedor.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.principal.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmbusqVentas.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmcredito.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.VENTAS.frmventas.resources
+C:\Users\steven tellez\Desktop\SISTEMA\Ventas\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache

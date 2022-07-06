@@ -1,0 +1,9 @@
+C:\estructura\WebDataBase\WebDataBase\bin\WebDataBase.dll.config
+C:\estructura\WebDataBase\WebDataBase\bin\WebDataBase.dll
+C:\estructura\WebDataBase\WebDataBase\bin\WebDataBase.pdb
+C:\estructura\WebDataBase\WebDataBase\bin\LogicaDatos.dll
+C:\estructura\WebDataBase\WebDataBase\bin\LogicaDatos.pdb
+C:\estructura\WebDataBase\WebDataBase\obj\Debug\WebDataBase.csprojResolveAssemblyReference.cache
+C:\estructura\WebDataBase\WebDataBase\obj\Debug\WebDataBase.dll
+C:\estructura\WebDataBase\WebDataBase\obj\Debug\WebDataBase.pdb
+C:\estructura\WebDataBase\WebDataBase\bin\EntityFramework.resources.dll

@@ -1,0 +1,82 @@
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.exe.config
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.exe
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.pdb
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\Bunifu_UI_v1.5.3.dll
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.Form1.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.Properties.Resources.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.csproj.GenerateResource.Cache
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.exe
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.pdb
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.menu.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.uc2.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcliente.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.exe.config
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.exe
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.pdb
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.exe
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.pdb
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.Form1.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcliente.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.menu.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.Properties.Resources.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.uc2.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.us1.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.csproj.GenerateResource.Cache
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmbodega.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcontrolplagas.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmmaquinaria.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproduccion.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproveedor.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmsemilla.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmventas.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcampañacultivo.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcompra.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmempleado.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproducto.resources
+J:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.us1.resources
+K:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\bin\Debug\SISGA.exe.config
+K:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.exe
+K:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.pdb
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmbodega.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcampañacultivo.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcompra.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmcontrolplagas.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmempleado.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmmaquinaria.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproduccion.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproducto.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmproveedor.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmsemilla.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.frmventas.resources
+F:\Projectos Finales\Programacion en Base de Datos\SISGA\SISGA\SISGA\obj\Debug\SISGA.csprojResolveAssemblyReference.cache
+D:\proyectofinal\SISGA\SISGA\bin\Debug\SISGA.exe.config
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.exe
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.pdb
+D:\proyectofinal\SISGA\SISGA\bin\Debug\SISGA.exe
+D:\proyectofinal\SISGA\SISGA\bin\Debug\SISGA.pdb
+D:\proyectofinal\SISGA\SISGA\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.csprojResolveAssemblyReference.cache
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.Form1.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmbodega.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmcampañacultivo.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmcliente.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmcompra.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmcontrolplagas.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmempleado.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmmaquinaria.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmproduccion.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmproducto.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmproveedor.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmsemilla.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.frmventas.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.menu.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.Properties.Resources.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.uc2.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.us1.resources
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.csproj.GenerateResource.Cache
+D:\proyectofinal\SISGA\SISGA\bin\Debug\Bussiness.dll
+D:\proyectofinal\SISGA\SISGA\bin\Debug\ModelData.dll
+D:\proyectofinal\SISGA\SISGA\bin\Debug\Bussiness.pdb
+D:\proyectofinal\SISGA\SISGA\bin\Debug\ModelData.pdb
+D:\proyectofinal\SISGA\SISGA\obj\Debug\SISGA.DatoBodega.resources

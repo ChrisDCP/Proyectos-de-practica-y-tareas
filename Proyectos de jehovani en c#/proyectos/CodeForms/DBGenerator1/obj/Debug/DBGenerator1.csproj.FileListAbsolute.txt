@@ -1,0 +1,33 @@
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe.config
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.pdb
+J:\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.csprojResolveAssemblyReference.cache
+J:\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.exe
+J:\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.pdb
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DataModel.dll
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.dll
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DataModel.pdb
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.xml
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.SqlServer.dll
+J:\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.SqlServer.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe.config
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.exe
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DataModel.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.SqlServer.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\DataModel.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\bin\Debug\EntityFramework.SqlServer.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.csprojResolveAssemblyReference.cache
+K:\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe.config
+K:\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.exe
+K:\CodeForms\DBGenerator1\bin\Debug\DBGenerator1.pdb
+K:\CodeForms\DBGenerator1\bin\Debug\DataModel.dll
+K:\CodeForms\DBGenerator1\bin\Debug\DataModel.pdb
+K:\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.csprojResolveAssemblyReference.cache
+K:\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.csproj.CoreCompileInputs.cache
+K:\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.exe
+K:\CodeForms\DBGenerator1\obj\Debug\DBGenerator1.pdb

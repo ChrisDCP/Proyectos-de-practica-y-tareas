@@ -15,7 +15,7 @@ var llave = '#c6bc00';
 var clorProta = '#820c01';
 
 var escenario = [
-    //1  2  3   4  5  6  7  8  9  10
+   //1  2  3   4  5  6  7  8  9  10
     [2, 0, 0, 0, 0, 0, 0, 0, 0, 0], //1
     [2, 2, 0, 2, 2, 2, 2, 0, 2, 0], //2
     [0, 2, 2, 2, 1, 1, 2, 0, 2, 0], //3
@@ -105,9 +105,9 @@ var jugador = function() {
     }
 
     this.victoria = function() {
-        console.log("Has ganado");
-        this.x = 1;
-        this.y = 1;
+        prompt("Has ganado");
+        this.x = 0;
+        this.y = 0;
         this.llave = false;
         escenario[9][3] = 4;
 
@@ -118,7 +118,7 @@ var jugador = function() {
 
         if (objeto == 4) {
             this.llave = true;
-            escenario[this.y][this.x] = 2;
+            escenario[this.y][this.x] = 1;
             console.log("nice");
 
         }

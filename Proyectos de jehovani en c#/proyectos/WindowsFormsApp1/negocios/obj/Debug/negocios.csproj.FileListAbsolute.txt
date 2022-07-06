@@ -1,0 +1,8 @@
+F:\WindowsFormsApp1\negocios\bin\Debug\negocios.exe.config
+F:\WindowsFormsApp1\negocios\bin\Debug\negocios.exe
+F:\WindowsFormsApp1\negocios\bin\Debug\negocios.pdb
+F:\WindowsFormsApp1\negocios\bin\Debug\datosd.exe
+F:\WindowsFormsApp1\negocios\bin\Debug\datosd.pdb
+F:\WindowsFormsApp1\negocios\obj\Debug\negocios.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApp1\negocios\obj\Debug\negocios.exe
+F:\WindowsFormsApp1\negocios\obj\Debug\negocios.pdb

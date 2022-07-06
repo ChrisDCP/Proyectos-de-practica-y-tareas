@@ -1,0 +1,44 @@
+J:\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.exe.config
+J:\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.exe
+J:\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.pdb
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.csprojResolveAssemblyReference.cache
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.Form1.resources
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.Properties.Resources.resources
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.csproj.GenerateResource.Cache
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.exe
+J:\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.exe.config
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.exe
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\CodeForms.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.csprojResolveAssemblyReference.cache
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.Properties.Resources.resources
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.csproj.GenerateResource.Cache
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.exe
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\CapaNegocios.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\DataModel.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\EntityFramework.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\EntityFramework.SqlServer.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\System.Data.SqlClient.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\CapaNegocios.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\DataModel.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\EntityFramework.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\bin\Debug\EntityFramework.SqlServer.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CodeForms\obj\Debug\CodeForms.frmPersona.resources
+K:\CodeForms\CodeForms\bin\Debug\CodeForms.exe.config
+K:\CodeForms\CodeForms\bin\Debug\CodeForms.exe
+K:\CodeForms\CodeForms\bin\Debug\CodeForms.pdb
+K:\CodeForms\CodeForms\bin\Debug\CapaNegocios.dll
+K:\CodeForms\CodeForms\bin\Debug\DataModel.dll
+K:\CodeForms\CodeForms\bin\Debug\System.Data.SqlClient.dll
+K:\CodeForms\CodeForms\bin\Debug\CapaNegocios.pdb
+K:\CodeForms\CodeForms\bin\Debug\DataModel.pdb
+K:\CodeForms\CodeForms\bin\Debug\EntityFramework.xml
+K:\CodeForms\CodeForms\bin\Debug\EntityFramework.SqlServer.xml
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.csprojResolveAssemblyReference.cache
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.frmPersona.resources
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.Properties.Resources.resources
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.csproj.GenerateResource.Cache
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.csproj.CoreCompileInputs.cache
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.exe
+K:\CodeForms\CodeForms\obj\Debug\CodeForms.pdb

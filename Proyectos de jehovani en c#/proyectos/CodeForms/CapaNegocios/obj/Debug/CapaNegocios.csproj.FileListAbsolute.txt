@@ -1,0 +1,28 @@
+J:\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.dll
+J:\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.pdb
+J:\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+J:\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.dll
+J:\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\DataModel.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\EntityFramework.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\DataModel.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\EntityFramework.xml
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.pdb
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\EntityFramework.SqlServer.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\System.Data.SqlClient.dll
+J:\Clases II semestre, 2017\Programacion en BD\CodeForms\CapaNegocios\bin\Debug\EntityFramework.SqlServer.xml
+K:\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.dll
+K:\CodeForms\CapaNegocios\bin\Debug\CapaNegocios.pdb
+K:\CodeForms\CapaNegocios\bin\Debug\DataModel.dll
+K:\CodeForms\CapaNegocios\bin\Debug\System.Data.SqlClient.dll
+K:\CodeForms\CapaNegocios\bin\Debug\DataModel.pdb
+K:\CodeForms\CapaNegocios\bin\Debug\EntityFramework.xml
+K:\CodeForms\CapaNegocios\bin\Debug\EntityFramework.SqlServer.xml
+K:\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.csprojResolveAssemblyReference.cache
+K:\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+K:\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.dll
+K:\CodeForms\CapaNegocios\obj\Debug\CapaNegocios.pdb

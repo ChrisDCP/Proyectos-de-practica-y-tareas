@@ -1,0 +1,5 @@
+C:\estructura\WebDataBase\LogicaDatos\bin\Debug\LogicaDatos.dll
+C:\estructura\WebDataBase\LogicaDatos\bin\Debug\LogicaDatos.pdb
+C:\estructura\WebDataBase\LogicaDatos\obj\Debug\LogicaDatos.dll
+C:\estructura\WebDataBase\LogicaDatos\obj\Debug\LogicaDatos.pdb
+C:\estructura\WebDataBase\LogicaDatos\obj\Debug\LogicaDatos.csprojResolveAssemblyReference.cache

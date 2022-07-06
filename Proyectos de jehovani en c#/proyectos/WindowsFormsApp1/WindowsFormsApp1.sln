@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{2C38F93C-DFE6-42FF-A4EC-1887C73E49FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datosd", "datosd\datosd.csproj", "{0D22636C-447F-44FC-8B93-84410B695007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocios1", "negocios1\negocios1.csproj", "{14FA4FD8-BA8C-45C2-AF0F-5E4437D5DE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C38F93C-DFE6-42FF-A4EC-1887C73E49FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C38F93C-DFE6-42FF-A4EC-1887C73E49FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C38F93C-DFE6-42FF-A4EC-1887C73E49FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C38F93C-DFE6-42FF-A4EC-1887C73E49FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D22636C-447F-44FC-8B93-84410B695007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D22636C-447F-44FC-8B93-84410B695007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D22636C-447F-44FC-8B93-84410B695007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D22636C-447F-44FC-8B93-84410B695007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FA4FD8-BA8C-45C2-AF0F-5E4437D5DE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FA4FD8-BA8C-45C2-AF0F-5E4437D5DE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FA4FD8-BA8C-45C2-AF0F-5E4437D5DE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FA4FD8-BA8C-45C2-AF0F-5E4437D5DE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A1BAC72-F215-4659-B010-FA32C5E4A062}
+	EndGlobalSection
+EndGlobal

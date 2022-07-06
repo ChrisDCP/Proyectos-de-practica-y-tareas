@@ -40,7 +40,6 @@ public class arreglo {
         if(this.tope<this.max-1){         
             this.tope++;
             this.pila[this.tope] = Integer.parseInt(JOptionPane.showInputDialog("ingresa el dato a poner en pila"));
-            
 
             JOptionPane.showMessageDialog(null, "EL dato se inserto");
         }

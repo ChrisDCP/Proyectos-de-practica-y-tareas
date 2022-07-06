@@ -1,0 +1,5 @@
+C:\progalg\examen\progBD\primerpro\CapaDato\bin\Debug\CapaDato.dll
+C:\progalg\examen\progBD\primerpro\CapaDato\bin\Debug\CapaDato.pdb
+C:\progalg\examen\progBD\primerpro\CapaDato\obj\Debug\CapaDato.csprojResolveAssemblyReference.cache
+C:\progalg\examen\progBD\primerpro\CapaDato\obj\Debug\CapaDato.dll
+C:\progalg\examen\progBD\primerpro\CapaDato\obj\Debug\CapaDato.pdb

@@ -1,0 +1,5 @@
+F:\WindowsFormsApp1\datosd\bin\Debug\datosd.exe.config
+F:\WindowsFormsApp1\datosd\bin\Debug\datosd.exe
+F:\WindowsFormsApp1\datosd\bin\Debug\datosd.pdb
+F:\WindowsFormsApp1\datosd\obj\Debug\datosd.exe
+F:\WindowsFormsApp1\datosd\obj\Debug\datosd.pdb

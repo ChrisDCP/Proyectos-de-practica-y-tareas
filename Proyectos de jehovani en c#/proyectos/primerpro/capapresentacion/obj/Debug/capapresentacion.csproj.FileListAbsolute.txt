@@ -1,0 +1,13 @@
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\capapresentacion.exe.config
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\capapresentacion.exe
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\capapresentacion.pdb
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\CapaNegocio.dll
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\CapaDato.dll
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\CapaNegocio.pdb
+C:\progalg\examen\progBD\primerpro\capapresentacion\bin\Debug\CapaDato.pdb
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.csprojResolveAssemblyReference.cache
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.Form1.resources
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.Properties.Resources.resources
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.csproj.GenerateResource.Cache
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.exe
+C:\progalg\examen\progBD\primerpro\capapresentacion\obj\Debug\capapresentacion.pdb

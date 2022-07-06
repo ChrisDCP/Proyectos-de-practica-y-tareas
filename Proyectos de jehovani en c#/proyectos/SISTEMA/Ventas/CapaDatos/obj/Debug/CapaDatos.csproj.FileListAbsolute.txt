@@ -1,0 +1,15 @@
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\ventas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\m_dia\OneDrive\Documentos\Visual Studio 2013\Projects\venta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\4430s\Documents\SISTEMA\Ventas\CapaDatos\obj\Debug\CapaDatos.pdb

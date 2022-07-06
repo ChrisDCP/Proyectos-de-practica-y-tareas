@@ -1,0 +1,7 @@
+C:\progalg\examen\progBD\primerpro\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\progalg\examen\progBD\primerpro\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\progalg\examen\progBD\primerpro\CapaNegocio\bin\Debug\CapaDato.dll
+C:\progalg\examen\progBD\primerpro\CapaNegocio\bin\Debug\CapaDato.pdb
+C:\progalg\examen\progBD\primerpro\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\progalg\examen\progBD\primerpro\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\progalg\examen\progBD\primerpro\CapaNegocio\obj\Debug\CapaNegocio.pdb
